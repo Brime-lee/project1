@@ -1,0 +1,1 @@
+var popUp = alert("Welcome to Brime's one page Personal Profile");
